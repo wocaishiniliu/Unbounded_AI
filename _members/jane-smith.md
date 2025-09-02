@@ -1,8 +1,8 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
+name: Nokimul Hasan Arif
+image: images/Nokimul_Hasan_Arif.jpg
+role: PhD student
+affiliation: University of Central Florida
 aliases:
   - J. Smith
   - J Smith
