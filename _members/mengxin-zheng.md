@@ -1,7 +1,7 @@
 ---
-name: John Doe
+name: Mengxin Zheng
 image: images/photo.jpg
-role: phd
+role: Co-Director
 group: alum
 links:
   github: john-doe
