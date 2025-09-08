@@ -1,6 +1,6 @@
 ---
 name: Mansour Al Ghanim
-image: images/Mansour.jpg
+image: images/photo.jpg
 description: PhD student
 role: PhD student
 ---
