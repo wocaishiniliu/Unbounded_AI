@@ -1,6 +1,6 @@
 ---
 name: Nokimul Hasan Arif
-image: images/photo.jpg
+image: images/Nokimul_Hasan_Arif.jpg
 description: PhD student
 role: PhD student
 ---

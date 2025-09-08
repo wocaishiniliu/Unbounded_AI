@@ -1,6 +1,6 @@
 ---
 name: Ahatesham Bhuiyan
-image: images/photo.jpg
+image: images/Ahatesham.jpg
 description: PhD student
 role: PhD student
 links:

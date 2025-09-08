@@ -1,6 +1,6 @@
 ---
 name: Mayank Kumar
-image: images/photo.jpg
+image: images/mayank_kumar.jpeg
 description: PhD student
 role: PhD student
 ---

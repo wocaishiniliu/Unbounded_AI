@@ -1,6 +1,6 @@
 ---
 name: Ahasan Kabir
-image: images/photo.jpg
+image: images/Ahasan.png
 description: PhD student
 role: PhD student
 links:
