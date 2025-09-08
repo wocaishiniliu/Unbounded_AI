@@ -1,6 +1,6 @@
 ---
 name: Jiaqi Xue
-image: images/photo.jpg
+image: images/jiaqi.jfif
 description: PhD student
 role: PhD student
 links:

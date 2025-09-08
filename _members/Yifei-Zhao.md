@@ -1,6 +1,6 @@
 ---
 name: Yifei Zhao
-image: images/photo.jpg
+image: images/yifei.jpg
 description: PhD student
 role: PhD student
 ---
