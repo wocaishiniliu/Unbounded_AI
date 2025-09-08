@@ -366,6 +366,45 @@
   orcid: 0000-0001-5462-2567
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1145/3605098.3636065
+  title: 'Ar-Spider: Text-to-SQL in Arabic'
+  authors:
+  - Saleh Almohaimeed
+  - Saad Almohaimeed
+  - Mansour Al Ghanim
+  - Liqiang Wang
+  publisher: Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing
+  date: '2024-04-08'
+  link: https://doi.org/g92wm6
+  orcid: 0009-0000-0586-1916
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14445/22492615/ijptt-v9i4p404
+  title: Transactional Memory Scheduling Using Machine Learning Techniques
+  authors:
+  - Basem Assiri
+  - Costas Busch
+  - Mansour Al Ghanim
+  publisher: International Journal of P2P Network Trends and Technology
+  date: '2019-08-25'
+  link: https://doi.org/g92wm7
+  orcid: 0009-0000-0586-1916
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/faia230254
+  title: 'TrojBits: A Hardware Aware Inference-Time Attack on Transformer-Based Language
+    Models'
+  authors:
+  - Mansour Al Ghanim
+  - Muhammad Santriaji
+  - Qian Lou
+  - Yan Solihin
+  publisher: Frontiers in Artificial Intelligence and Applications
+  date: '2023-09-28'
+  link: https://doi.org/g92wm8
+  orcid: 0009-0000-0586-1916
+  plugin: orcid.py
+  file: orcid.yaml
 - id: arxiv:2504.12217
   title: 'zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing'
   authors:
