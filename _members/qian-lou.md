@@ -1,6 +1,7 @@
 ---
 name: Qian Lou
 image: images/lq.jpg
+description: Director
 role: Director
 affiliation: University of Central Florida
 links:

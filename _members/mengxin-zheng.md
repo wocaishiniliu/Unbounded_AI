@@ -1,8 +1,8 @@
 ---
 name: Mengxin Zheng
 image: images/photo.jpg
+description: Co-Director
 role: Co-Director
-group: alum
 links:
   github: john-doe
 ---
