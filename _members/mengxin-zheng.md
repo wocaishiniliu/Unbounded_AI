@@ -1,6 +1,6 @@
 ---
 name: Mengxin Zheng
-image: images/photo.jpg
+image: images/mengxin.jpg
 description: Co-Director
 role: Co-Director
 links:

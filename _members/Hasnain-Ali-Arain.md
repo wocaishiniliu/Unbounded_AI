@@ -1,6 +1,6 @@
 ---
 name: Hasnain Ali Arain
-image: images/photo.jpg
+image: images/hasnain.png
 description: PhD student
 role: PhD student
 links:

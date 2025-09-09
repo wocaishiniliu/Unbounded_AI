@@ -1,6 +1,6 @@
 ---
 name: Rakibul Hasan Rajib
-image: images/photo.jpg
+image: images/Rakibul.jpg
 description: PhD student
 role: PhD student
 links:
