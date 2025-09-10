@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@UCF-ML-Research.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: qian.lou@ucf.edu
+  orcid: 0000-0001-5462-2567
+  google-scholar: SBYgXLoAAAAJ
   github: UCF-ML-Research
   twitter: UCF-ML-Research
-  youtube: UCF-ML-Research
+  youtube: @Unbounded_AI_UCF
 
 ### jekyll settings
 

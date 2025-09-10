@@ -14,20 +14,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="qian.lou@ucf.edu"
+  link="qian.lou@ucf.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(812) 558-6704"
+  link="+1-812-558-6704"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Department+of+Communication+Sciences+and+Disorders/@28.6029392,-81.1989182,367m/data=!3m1!1e3!4m6!3m5!1s0x88e7685b5d62c677:0xc4ae61f2a771a57d!8m2!3d28.6032014!4d-81.1981668!16s%2Fg%2F12hspktgr?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}
