@@ -19,8 +19,8 @@
   file: sources.yaml
   image: _data/sources.yaml
   buttons:
-  - type: blog
-    link: https://ucf-ml-research.github.io/Unbounded_AI/DAHE.html
+  - type: info
+    link: https://ucf-ml-research.github.io/Unbounded_AI/2025-09-13-DAHE.md
   tags:
   - HE
 - id: doi:10.1145/3719276.3725191
