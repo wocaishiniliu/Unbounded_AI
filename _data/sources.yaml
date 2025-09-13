@@ -11,3 +11,11 @@
 - id: doi:10.1145/3689217.3690620
 
 - id: doi:10.1145/3689217.3690617
+
+- id: doi:10.1109/TC.2025.3569159
+  image: _data/sources.yaml
+  buttons:
+  - type: blog
+    link: https://ucf-ml-research.github.io/Unbounded_AI/DAHE.html
+  tags:
+  - HE
