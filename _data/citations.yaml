@@ -15,8 +15,14 @@
   date: '2025-08-01'
   link: https://doi.org/g92r4t
   orcid: 0000-0001-5462-2567
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: _data/sources.yaml
+  buttons:
+  - type: blog
+    link: https://ucf-ml-research.github.io/Unbounded_AI/DAHE.html
+  tags:
+  - HE
 - id: doi:10.1145/3719276.3725191
   title: 'Corrosion Hammer: A Self-Activated Bit-Flip Attack to the Processing-In-Memory
     Accelerator'
