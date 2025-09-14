@@ -17,7 +17,7 @@
   orcid: 0000-0001-5462-2567
   plugin: sources.py
   file: sources.yaml
-  image: _data/sources.yaml
+  image: images/DAHE.jpg
   buttons:
   - type: info
     link: https://ucf-ml-research.github.io/Unbounded_AI/2025-09-13-DAHE.md
