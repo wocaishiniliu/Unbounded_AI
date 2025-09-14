@@ -13,7 +13,7 @@
 - id: doi:10.1145/3689217.3690617
 
 - id: doi:10.1109/TC.2025.3569159
-  image: _data/sources.yaml
+  image: images/DAHE.jpg
   buttons:
   - type: info
     link: https://ucf-ml-research.github.io/Unbounded_AI/2025-09-13-DAHE.md
