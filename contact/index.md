@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-At Unbounded AI Lab, we recognize that today's artificial intelligence is fundamentally limited—constrained by critical challenges in privacy, security, performance, and reliability.
-
-Our mission is to break these boundaries. We conduct pioneering research to build AI that is truly secure, scalable, and verifiable, unleashing its full potential for the future.
+As a core part of the Department of Computer Science at the University of Central Florida, our lab is based in the Health Sciences II (HS2) building.
 
 {%
   include button.html

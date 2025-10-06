@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At Unbounded AI Lab, we recognize that today's artificial intelligence is fundamentally limited—constrained by critical challenges in privacy, security, performance, and reliability.
+
+Our mission is to break these boundaries. We conduct pioneering research to build AI that is truly secure, scalable, and verifiable, unleashing its full potential for the future.
 
 {% include section.html %}
 
