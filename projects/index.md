@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is deeply committed to translating research into real-world impact, evidenced by our extensive portfolio of commercialization projects. The significance and potential of our work have been recognized through funding and grants from key government agencies, enabling us to accelerate the development of innovative technologies and their path to the market.
 
 {% include tags.html tags="publication, resource, website" %}
 
