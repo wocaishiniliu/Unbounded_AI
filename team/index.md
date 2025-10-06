@@ -28,4 +28,4 @@ Collaboration is at the heart of everything we do. We thrive on partnering with 
 
 {% endcapture %} -->
 
-{% include grid.html style="square" content=content %}
+<!-- {% include grid.html style="square" content=content %} -->
