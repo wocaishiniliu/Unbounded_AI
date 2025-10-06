@@ -5,7 +5,7 @@
 
 At Unbounded AI Lab, we recognize that today's artificial intelligence is fundamentally limited—constrained by critical challenges in privacy, security, performance, and reliability.
 
-Our mission is to break these boundaries. We conduct pioneering research to build AI that is truly secure, scalable, and verifiable, unleashing its full potential for the future.
+
 
 {% include section.html %}
 
@@ -13,7 +13,7 @@ Our mission is to break these boundaries. We conduct pioneering research to buil
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our mission is to break these boundaries. We conduct pioneering research to build AI that is truly secure, scalable, and verifiable, unleashing its full potential for the future.
 
 {%
   include button.html
@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab is deeply committed to translating research into real-world impact, evidenced by our extensive portfolio of commercialization projects. The significance and potential of our work have been recognized through funding and grants from key government agencies, enabling us to accelerate the development of innovative technologies and their path to the market.
 
 {%
   include button.html
@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are more than just a lab; we are a community of curious minds. Our strength comes from our diversity, and we actively foster a supportive space where everyone feels a sense of belonging. We believe that celebrating our different experiences and perspectives makes our science better. Our team proudly includes researchers at every stage of their career, from undergraduates to postdocs, all contributing to our shared mission
 
 {%
   include button.html
@@ -76,7 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group_dinner.jpg"
   link="team"
   title="Our Team"
   text=text
