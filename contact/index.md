@@ -37,7 +37,6 @@ Our mission is to break these boundaries. We conduct pioneering research to buil
 {%
   include figure.html
   image="images/group_dinner.jpg"
-  caption="Group picture"
 %}
 
 {% endcapture %}
@@ -56,9 +55,9 @@ Our mission is to break these boundaries. We conduct pioneering research to buil
 {% include cols.html col1=col1 %}
 {% include section.html dark=true %}
 
-{% capture col1 %}
+<!-- {% capture col1 %}
 WE ARE UNBOULDED AI LAB~
-{% endcapture %}
+{% endcapture %} -->
 
 <!-- {% capture col2 %}
 Lorem ipsum dolor sit amet  
@@ -73,4 +72,4 @@ sed do eiusmod tempor
 {% endcapture %} -->
 
 <!-- {% include cols.html col1=col1 col2=col2 col3=col3 %} -->
-{% include cols.html col1=col1 %}
+<!-- {% include cols.html col1=col1 %} -->
