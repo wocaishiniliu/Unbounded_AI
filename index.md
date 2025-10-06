@@ -28,7 +28,7 @@ Our mission is to break these boundaries. We conduct pioneering research to buil
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/DAHE.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -51,7 +51,7 @@ Our lab is deeply committed to translating research into real-world impact, evid
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/code-photo.jpg"
   link="projects"
   title="Our Projects"
   flip=true
