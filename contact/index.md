@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At Unbounded AI Lab, we recognize that today's artificial intelligence is fundamentally limited—constrained by critical challenges in privacy, security, performance, and reliability.
+
+Our mission is to break these boundaries. We conduct pioneering research to build AI that is truly secure, scalable, and verifiable, unleashing its full potential for the future.
 
 {%
   include button.html
@@ -36,13 +36,13 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/group_dinner.jpg"
+  caption="Group picture"
 %}
 
 {% endcapture %}
 
-{% capture col2 %}
+<!-- {% capture col2 %}
 
 {%
   include figure.html
@@ -50,19 +50,17 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   caption="Lorem ipsum"
 %}
 
-{% endcapture %}
+{% endcapture %} -->
 
-{% include cols.html col1=col1 col2=col2 %}
-
+<!-- {% include cols.html col1=col1 col2=col2 %} -->
+{% include cols.html col1=col1 %}
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+WE ARE UNBOULDED AI LAB~
 {% endcapture %}
 
-{% capture col2 %}
+<!-- {% capture col2 %}
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
@@ -72,6 +70,7 @@ sed do eiusmod tempor
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
-{% endcapture %}
+{% endcapture %} -->
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+<!-- {% include cols.html col1=col1 col2=col2 col3=col3 %} -->
+{% include cols.html col1=col1 %}
